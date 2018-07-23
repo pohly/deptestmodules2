@@ -1,0 +1,3 @@
+[submodule "foo"]
+	path = foo
+	url = https://github.com/pohly/deptestmodules3.git
